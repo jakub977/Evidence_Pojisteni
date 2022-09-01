@@ -12,4 +12,4 @@ Data jsou ukládána do kolekce <list> a jsou přístupná pouze po dobu běhu a
 
 
 ## Požadavky na spuštění aplikace
-IDE - Visual Studio Community
+IDE - Visual Studio Community.
