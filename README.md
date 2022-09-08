@@ -1,5 +1,5 @@
 # Evidence_Pojisteni
-Evidence Pojištění
+Evidence Pojištění C#
 
 ## Titul
 Jednoduchá evidence a výpis pojištěných osob.
