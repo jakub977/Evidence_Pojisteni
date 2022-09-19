@@ -1,15 +1,15 @@
 # Evidence_Pojisteni
-Evidence Pojištění C#
 
-## Titul
-Jednoduchá evidence a výpis pojištěných osob.
+Client Register C#
 
-## Popis projektu
-Konzolová aplikace, která umožňuje evidenci - (jména, příjmení, věku, tel. čisla) pojištěných osob, výpis všech záznamů pojištěných osob 
-a vyhledání záznamů pojištěných osob podle jejich jména a příjmení. 
-Pro výběr z možností slouží jednoduché menu, ze kterého se vybírá pomocí číselných vstupů.
-Data jsou ukládána do kolekce <list> a jsou přístupná pouze po dobu běhu aplikace. 
+## Title
+Basic console app for registering clients information. 
 
+## Descripton
+This console app will let you register new client's information (first name, last name, age, phone number). Print list of all registered clients,
+their information, and search for a client using his first name and last name. 
+Choose desired operation from the list of options using numeric inputs.
+Information are stored in the <list> and are accesible just during the run of the application.
 
-## Požadavky na spuštění aplikace
-IDE - Visual Studio Community.
+## IDE requirements
+Visual Studio Community.
